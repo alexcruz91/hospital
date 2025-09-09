@@ -4,6 +4,7 @@ import app.domain.model.enums.Rol;
 import java.util.Date;
 
 public class Empleado {
+    
     private String nombreCompleto;
     private long numeroCedula;
     private String email;
